@@ -35,6 +35,6 @@
 
 ### Change
 
-1. Anyone viewing or using in any way, directly or indirectly, the scripts in "Script project" should read this disclaimer carefully, and NobyDa reserves the right to change or supplement this disclaimer at any time. 
+1. Anyone viewing or using in any way, directly or indirectly, the scripts in "Script project" should read this disclaimer carefully, and Nobody reserves the right to change or supplement this disclaimer at any time. 
 
 2. **Once you view, use or copy any of the related scripts in "Script project", you will be deemed to have accepted this disclaimer.**
