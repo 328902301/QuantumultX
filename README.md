@@ -8,3 +8,33 @@
 6. 所有基于本项目源代码，进行的任何修改，为其他个人或组织的自发行为，与本项目没有任何直接或间接的关系，所造成的一切后果亦与本项目无关。
 7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
 8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
+
+### Decrypt
+
+1. Any unlocking and decryption analysis scripts involved in "Script project" are for resource sharing and study purposes only.
+
+2. Legality, accuracy, completeness and validity cannot be guaranteed. **Please make your own judgment based on the actual situation.**
+
+3. You must completely delete the scripts involved decryption from your computer or phone within **24 hours** of downloading.
+
+### Privacy
+
+1. Any user who indirectly uses any of the scripts in "Script project", including but not limited to violating relevant laws and regulations or establishing VPS to spread, **Nonoe is not responsible for any privacy breach or other consequences arising therefrom.**
+
+### Commercial
+
+1. Do not use any scripts of "Script project" for commercial or illegal purposes, **otherwise you will be responsible for the consequences.**
+
+### Infringement
+
+1. If any company or individual believes that the scripts in "Script project" may be infringe on rights, you should promptly notify and provide proof of **identity** and proof of **ownership**, and we will delete the relevant scripts upon receipt of the relevant documents.
+
+### Liability
+
+1. Nonoe is not responsible for any scripts problems, **including but not limited to any loss or damage caused by any scripting errors.**
+
+### Change
+
+1. Anyone viewing or using in any way, directly or indirectly, the scripts in "Script project" should read this disclaimer carefully, and NobyDa reserves the right to change or supplement this disclaimer at any time. 
+
+2. **Once you view, use or copy any of the related scripts in "Script project", you will be deemed to have accepted this disclaimer.**
