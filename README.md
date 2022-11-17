@@ -19,7 +19,7 @@
 
 ### Privacy
 
-1. Any user who indirectly uses any of the scripts in "Script project", including but not limited to violating relevant laws and regulations or establishing VPS to spread, **Nonoe is not responsible for any privacy breach or other consequences arising therefrom.**
+1. Any user who indirectly uses any of the scripts in "Script project", including but not limited to violating relevant laws and regulations or establishing VPS to spread, **Nobody is not responsible for any privacy breach or other consequences arising therefrom.**
 
 ### Commercial
 
@@ -31,7 +31,7 @@
 
 ### Liability
 
-1. Nonoe is not responsible for any scripts problems, **including but not limited to any loss or damage caused by any scripting errors.**
+1. Nobody is not responsible for any scripts problems, **including but not limited to any loss or damage caused by any scripting errors.**
 
 ### Change
 
