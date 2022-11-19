@@ -143,6 +143,8 @@ hostname = ad.ysepay.com, m.jd.com, www.zhihu.com, api.zhihu.com, appcloud2.zhih
 ^https?:\/\/adm\.10jqka\.com\.cn\/img\/ad\/.*?(1\d{2}|\d{4})\.jpg url reject-img
 ^https?:\/\/adm\.10jqka\.com\.cn\/interface\/getads\.php url reject-img
 # > 国泰君安
+^https?:\/\/dl\.app\.gtja\.com\/dzswem\/kvController url reject-200
+^https?:\/\/dl[0-9]{1}\.app\.gtja\.com\/dzswem\/kvController url reject-200
 ^https?:\/\/dl\.app.gtja\.com\/.+?\d+\.jpg$ url reject-img
 ^https?:\/\/dl\.app\.gtja\.com/.+?\.jpg$ url reject-img
 ^https?:\/\/dl\.app\.gtja\.com\/dzswem\/kvController\/ url reject-img
