@@ -1,5 +1,981 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERGMyBXZWJEYXZcdTAwMkJUTFMiLA0KICAiYWRkIjogImYydnZway5hc3VzY29tbS5jb20iLA0KICAicG9ydCI6ICIyODM4OCIsDQogICJpZCI6ICI4M2E5OWQzYy0zMWM3LTQ4NmUtODAzNy1lYmFlZGRjZTJjMDEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-ss://YWVzLTEyOC1nY206ODhlRG1HNXdHdDY1aGRl@34.92.157.12:48941#%F0%9F%87%AD%F0%9F%87%B0%20AllinOne
-hysteria2://SurgePRO@yyds@52.230.81.77:443/?insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Azure%20SG02
-hysteria2://SurgePro@surgepro.cnmmb.com:443/?sni=surgepro.cnmmb.com&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Hysteria2-Test
-hysteria2://SurgePro@surgepro.cnmmb.com:443/?sni=surgepro.cnmmb.com&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Hysteria2
+[
+        {
+            "name": "🇭🇰 日用 专线 香港 [0.2]",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14091,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 日用 专线 狮城 [0.2]",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14092,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 日用 专线 日本 [0.2]",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14093,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 日用 专线 美国 [0.2]",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14094,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 01",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14101,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 02",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14102,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 03",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14103,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 04",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14104,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 05",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14105,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 06",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14106,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 07",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14107,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 高级 专线 香港 08",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14108,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 高级 专线 狮城 01",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14111,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 高级 专线 狮城 02",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14112,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 高级 专线 狮城 03",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14113,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 高级 专线 狮城 04",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14114,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 高级 专线 狮城 05",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14115,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14131,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14132,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 03",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14133,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 04",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14134,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 05",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14135,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 06",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14136,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 07",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14137,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 08",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14138,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 09",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14139,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 高级 专线 美国 10",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14140,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇰🇷 高级 专线 韩国 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14141,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇰🇷 高级 专线 韩国 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14142,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇨🇳 高级 专线 台湾 01",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14151,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇨🇳 高级 专线 台湾 02",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14152,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14121,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14122,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 03",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14123,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 04",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14124,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 05",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14125,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 06",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14126,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 07",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14127,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 高级 专线 日本 08",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14128,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 标准 专线 香港 01",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14001,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 标准 专线 香港 02",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14002,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇰 标准 专线 香港 03",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14003,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 标准 专线 狮城 01",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14011,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 标准 专线 狮城 02",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14012,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇸🇬 标准 专线 狮城 03",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14013,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 标准 专线 美国 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14031,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 标准 专线 美国 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14032,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 标准 专线 美国 03",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14033,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 标准 专线 美国 04",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14034,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 标准 专线 美国 05",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14035,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇸 标准 专线 美国 06",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14036,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇰🇷 标准 专线 韩国 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14041,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 标准 专线 日本 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14021,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 标准 专线 日本 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14022,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 标准 专线 日本 03",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14023,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 标准 专线 日本 04",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14024,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇨🇳 标准 专线 台湾 01",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14051,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇬🇧 特殊 专线 伦敦 01",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14201,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇬🇧 特殊 专线 伦敦 02",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14202,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇩🇪 特殊 专线 德国 01",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14200,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇩🇪 特殊 专线 德国 02",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14207,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇧🇷 特殊 专线 巴西 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14205,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇧🇷 特殊 专线 巴西 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14212,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇨🇦 特殊 专线 加拿大 01",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14206,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇨🇦 特殊 专线 加拿大 02",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14208,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇹🇷 特殊 专线 土耳其 01",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14198,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇹🇷 特殊 专线 土耳其 02",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14218,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇹🇭 特殊 专线 泰国",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14161,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇻🇳 特殊 专线 越南",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14162,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇮🇳 特殊 专线 印度",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14194,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇦🇺 特殊 专线 悉尼",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14199,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇦🇪 特殊 专线 迪拜",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14203,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇫🇷 特殊 专线 法国",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14204,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇳🇱 特殊 专线 荷兰",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14213,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇮🇩 特殊 专线 印尼",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14214,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇿🇦 特殊 专线 南非",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14215,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇪🇬 特殊 专线 埃及",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14220,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇵🇭 特殊 专线 菲律宾",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14191,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇮🇹 特殊 专线 意大利",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14193,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇪🇸 特殊 专线 西班牙",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14192,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇭🇺 特殊 专线 匈牙利",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14196,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇮🇱 特殊 专线 以色列",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14209,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇺🇦 特殊 专线 乌克兰",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14211,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇷🇺 特殊 专线 俄罗斯",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14195,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇲🇾 特殊 专线 马来西亚",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14219,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇯🇵 特殊 专线 尼日利亚",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14210,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇵🇰 特殊 专线 巴基斯坦",
+
+            "server": "bepgzbgp01.114837322.xyz",
+            "port": 14216,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇲🇩 特殊 专线 摩尔多瓦",
+
+            "server": "bepbjbgp01.114837322.xyz",
+            "port": 14217,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        },
+        {
+            "name": "🇦🇷 购物 专线 阿根廷",
+
+            "server": "bepshbgp01.114837322.xyz",
+            "port": 14197,
+            "type": "ss",
+            "cipher": "chacha20-ietf-poly1305",
+            "password": "lE9uL5fR3yR9",
+            "plugin": "obfs",
+            "udp": true
+        }
+]
