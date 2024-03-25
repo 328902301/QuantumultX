@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206Y0oxaEVPbVU4czIyZ0p0MlVFV1hJdjhSUXRDa2dDUVpHeFpsS01zT0Y0V1o=@f2vvpk.asuscomm.com:28388#%F0%9F%87%A8%F0%9F%87%B3%20WebDav%2BTLS
+ss://YWVzLTI1Ni1nY206Y0oxaEVPbVU4czIyZ0p0MlVFV1hJdjhSUXRDa2dDUVpHeFpsS01zT0Y0V1o=@f2vvpk.asuscomm.com:28388#WebDav%2BTLS
 ss://YWVzLTEyOC1nY206ODhlRG1HNXdHdDY1aGRl@34.92.157.12:48941#%F0%9F%87%AD%F0%9F%87%B0%20AllinOne
 hysteria2://SurgePRO@yyds@52.230.81.77:443/?insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Azure%20SG02
 hysteria2://SurgePro@surgepro.cnmmb.com:443/?sni=surgepro.cnmmb.com&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Hysteria2-Test
